@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: Fang
-@file: app.py
+@file: application.py
 @time: 17.09.2019 12:42
 """
 
